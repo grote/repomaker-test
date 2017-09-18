@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fdroid>
+	<repo icon="default-repo-icon.png" name="Test Repo" pubkey="30820503308202eba003020102020443df81fd300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3137303931383132323735395a170d3435303230333132323735395a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a0282020100b6813c9532d4a4fc3b6ec01942253a994179268cf4f07332aeb5270394ddbd7a4bcec7d6013102f88a7a81d78e328b111223a57f80ceb9e687a402d7ec607dca6b28b95fd23bc4d02768b0a605b84a1dc9a8f717fd7b0d89679ddf9f7d57e864903fe918936f0e76983da0d7c6cf1991925e2273a92c84b77fe2a62e2fe54ad453c1e899a38863f78791b64532a8c46bfc0996b89fc17ffa58ffa8a7335843a42fb07bee02717fcc5251427fb84b5cdcdc4a6621c727ecfddc9488f4b4ab984f3d09f50238bfc9b244207a29f1c232984673fc09828417ab4c0d9c7f728a4f8afa0640093f573a69f7281f64cbab027a37d23922c74f6e277f9897dea63d6a291e738b5b5accfe60507c8b7f193eac5ff90a8be929a2799b4790a719b2d5490409728c00850b39d0e170fad0fb5ee852990449008a11717232e2e27f61850a6b7b60199a4cbcfaa60225e11ee48d0acc1b55cbf9672ee55640ce8769951e017d287e6d451152fb4bda9c00b56d019ff67a536b82c83a71fc3fcd8c3e25e6f62cda6a72c5bfcf471c31e940f05fc1fc9975285d0714033ae2108568fc7bf01e563da23ebb8997aa47c41cb291a0a221ed5941d2dc35d2ffb80034d498d7314124195f0da679a3e6bedbbbde0ddc7e4abfe42c612247bfa383bd82c3920cc354d6a6e56815724e926b23b1f8c2c18fdc7d9ca076a5bd139c3e421f9bddae6923930203010001a321301f301d0603551d0e041604144c77ad1ee3285116032abdd7bbcad46c13c00ca1300d06092a864886f70d01010b0500038202010071f7198f48dfdc1666fac48a29db4ce25868ba468877ac0c8fcc548927bde6294f92d32dcd4773e3170daff7474c2b2bb43acf83057a81ae97862ca20677a724cef07736b3936c5d09241bffa4fccd5e33e5f5fd67002410a24e7b1a49bf50937812e134889ce7d7ce781f741cea02f61ccbcd28f2d3e0025a4a6eee9aeaf4803fd57169fca075773837e59f21e3f2d027dacc7d16d58449b36b977b63e7c5f46353c2b808cf223770feab34d0cd08af890d16fcdcabf30bb6f6b7feff057c2813a6d12368f3c9730a06a32b5b78f51d6219ebb17f6a709aaa7445617eaae59c9c09dbf502fbdd355fa69ea73fc435a25c19cefd695b51e0273d1ebbe133392259312f7433f2fa4f8359d62d712a4fafeaa10e76429e663cacdc445a59ca8a047e5212deca7560132cf44ed198969e01e3c03ae0ff59fe0d687a06f447360ac317e292a4f303b3d7817296999279662f15c66d2d9a389a285ceed80956aa3b9fb0502e541373287dec1789641a8681708a0aed44379768eec307946ee0349e368071e166c3fe5f6ff51097dc43d2c66fa2a493b539dd87ea74d6b21a9e0b15ba2cc17b944f4eab498882ed255171b645629384757f06a2a470ba8d368a159b24fad37d5460ad495cb190b62f85baf759793cd31e5a9a593722088daa180f3d08b3b19347c47ae9e568c45a13d5f6637267f83bcfc6b669f1cf7b3bb029d5978e" timestamp="1505737809" url="https://raw.githubusercontent.com/grote/repomaker-test/master/fdroid/repo" version="18">
+		<description>dsfsdf</description>
+		<mirror>https://raw.githubusercontent.com/grote/repomaker-test/master/fdroid/repo/repo</mirror>
+	</repo>
+	<application id="com.android.keepass">
+		<id>com.android.keepass</id>
+		<added>2017-09-18</added>
+		<lastupdated>2017-09-18</lastupdated>
+		<name>KeePassDroid</name>
+		<summary>KeePass-compatible password safe</summary>
+		<icon>com.android.keepass.154.png</icon>
+		<desc>&lt;p&gt;A password safe, compatible with KeePass. Keepass is available on all the major desktop platforms: on GNU/Linux KeePassX is a well-established client. Portable editions are available if you need to use it on a Windows machine. Supports both versions 1 (kdb) &amp;amp; 2 (kdbx) of the Keepass database. Supports MIPS and x86 natively.&lt;/p&gt;</desc>
+		<license>Unknown</license>
+		<categories>Security</categories>
+		<category>Security</category>
+		<web>http://www.keepassdroid.com</web>
+		<source></source>
+		<tracker></tracker>
+		<marketversion></marketversion>
+		<marketvercode>154</marketvercode>
+		<package>
+			<version>2.0.6.4</version>
+			<versioncode>154</versioncode>
+			<apkname>com.android.keepass_154.apk</apkname>
+			<hash type="sha256">d63a726306283c3f88d91275223065bae168c4db5249b701515fb5497a43efad</hash>
+			<size>1803365</size>
+			<sdkver>3</sdkver>
+			<targetSdkVersion>12</targetSdkVersion>
+			<added>2017-09-18</added>
+			<sig>e58745bbdaab14ead7a1d2101916d3e6</sig>
+			<permissions>READ_EXTERNAL_STORAGE,VIBRATE,WRITE_EXTERNAL_STORAGE</permissions>
+			<nativecode>arm64-v8a,armeabi,armeabi-v7a,mips,mips64,x86,x86_64</nativecode>
+		</package>
+	</application>
+</fdroid>
