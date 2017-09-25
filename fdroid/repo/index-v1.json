@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1506356860372,
+    "timestamp": 1506356896924,
     "version": 18,
     "name": "Test Repo",
     "icon": "default-repo-icon.png",
@@ -14,65 +14,6 @@
     "install": [],
     "uninstall": []
   },
-  "apps": [
-    {
-      "categories": [
-        "Security"
-      ],
-      "suggestedVersionCode": "154",
-      "license": "Unknown",
-      "name": "KeePassDroid",
-      "added": 1505737741727,
-      "icon": "com.android.keepass.154.png",
-      "packageName": "com.android.keepass",
-      "lastUpdated": 1505737748497,
-      "localized": {
-        "en": {
-          "summary": "KeePass-compatible password safe",
-          "featureGraphic": "device-2017-01-31-161655.png",
-          "description": "<p>A password safe, compatible with KeePass. Keepass is available on all the major desktop platforms: on GNU/Linux KeePassX is a well-established client. Portable editions are available if you need to use it on a Windows machine. Supports both versions 1 (kdb) &amp; 2 (kdbx) of the Keepass database. Supports MIPS and x86 natively.&nbsp;</p>"
-        }
-      }
-    }
-  ],
-  "packages": {
-    "com.android.keepass": [
-      {
-        "added": 1505737748497,
-        "apkName": "com.android.keepass_154.apk",
-        "hash": "d63a726306283c3f88d91275223065bae168c4db5249b701515fb5497a43efad",
-        "hashType": "sha256",
-        "minSdkVersion": "3",
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi",
-          "armeabi-v7a",
-          "mips",
-          "mips64",
-          "x86",
-          "x86_64"
-        ],
-        "packageName": "com.android.keepass",
-        "sig": "e58745bbdaab14ead7a1d2101916d3e6",
-        "size": 1803365,
-        "targetSdkVersion": "12",
-        "uses-permission": [
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ]
-        ],
-        "versionCode": 154,
-        "versionName": "2.0.6.4"
-      }
-    ]
-  }
+  "apps": [],
+  "packages": {}
 }
